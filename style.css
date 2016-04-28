@@ -1,0 +1,35 @@
+.header {
+	height: 3vw;
+ 	background-color: black;
+}
+
+.grande {
+	height: 30vw;
+ 	background-color: black;
+ 	margin-top: 1vw;
+}
+
+.circ {
+	background-color: red;
+	height: 30vw;
+	width: 30vw;
+	border-radius: 50%;
+}
+
+.row {
+	margin-top: 1vw;
+	background-color: black;
+	height: 20vw;
+}
+
+.middle {
+	height: 4vw;
+ 	background-color: black;
+ 	margin-top: 1vw;
+}
+
+.bottom {
+	height: 3vw;
+ 	background-color: black;
+ 	margin-top: 1vw;
+}
