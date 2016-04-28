@@ -18,8 +18,6 @@
 
 .row {
 	margin-top: 1vw;
-	background-color: black;
-	height: 20vw;
 }
 
 .middle {
@@ -28,8 +26,28 @@
  	margin-top: 1vw;
 }
 
+.col-md-12 {
+	background-color: green;
+	height: 20vw;
+}
+
 .bottom {
 	height: 3vw;
  	background-color: black;
  	margin-top: 1vw;
+}
+
+.col-md-1 {
+	background-color: pink;
+	height: 20vw;
+}
+
+.col-md-6 {
+	background-color: pink;
+	height: 20vw;
+}
+
+.col-md-5 {
+	background-color: orange;
+	height: 20vw;
 }
